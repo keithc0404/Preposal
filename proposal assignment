@@ -1,0 +1,36 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Between the Sheets
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+My project will be a card game called acey duecey that gives you two cards and you either wager or predict that the next card will be in between the
+previous two cards. 
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+My software will run the game and allow the user to select yes or no whether they believe the next card will be in between the two previous cards.
+It will be executed through a point system where each correct answer gains points and incorrect loses points. Some features include a jackpot option
+that will be given if the user correctly guesses the card in between two specific cards. 
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome for this project will be to get the game up and running with a correct point system.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome will be to get the game up and running with a correct point system and features such as a jackpot or others.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+A best outcome will be to have the entire game working correctly and have graphics that show the real cards. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+My next steps in this project is to brainstorm what topics I will need in the software and what I will need to refresh up on. I will need to research
+if elif else statements and dictionary topics due to the card count and point system. I do not think I will need any new skills at this time.
